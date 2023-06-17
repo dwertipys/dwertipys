@@ -1,0 +1,1 @@
+Hey, fellow coders! I'm a full-stack developer with expertise in Python and JavaScript. I'm always exploring new technologies and love working on open-source projects. Let's connect and create something awesome together!
